@@ -2,9 +2,9 @@
 ##Empresa SilverSac
 ### Este proyecto esta desarrollado por la universidad continental, **bótame tu ga**
 
-	| Alumno | Cargo |
+	| Syntax | Description |
 | ----------- | ----------- |
-| Juan Zapata| Estudiante |
-| Brad Rosales| Estudiante |
+| Header | Title |
+| Paragraph | Text |
 
 ![alt text](UC.png)
