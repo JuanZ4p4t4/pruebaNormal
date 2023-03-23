@@ -2,7 +2,7 @@
 ##Empresa SilverSac
 ### Este proyecto esta desarrollado por la universidad continental, **bótame tu ga**
 
-	| Syntax | Description |
+	| Nombre | Cargo |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
