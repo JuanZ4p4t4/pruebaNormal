@@ -4,7 +4,7 @@
 
 	| Alumno | Cargo |
 | ----------- | ----------- |
-| Juan Zapata|Estudiante|
-| Brad Rosales|Estudiante|
+| Juan Zapata| Estudiante |
+| Brad Rosales| Estudiante |
 
 ![alt text](UC.png)
